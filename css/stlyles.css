@@ -118,7 +118,7 @@ margin-right: 30px;
   border-radius: 17px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 25px;
   padding: 8px 20px 8px 20px;
   text-decoration: none;
 }
@@ -132,6 +132,17 @@ margin-right: 30px;
   background-image: linear-gradient(to bottom, #294a19, #ccd646);
   text-decoration: none;
 }
+
+.My-Work {
+  margin: 400px auto 60px auto;
+  width: 50%
+}
+
+
+
+
+
+
 
 .copyright {
   color: #294a19;
